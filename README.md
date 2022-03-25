@@ -31,7 +31,6 @@ We tried the test printing with a small circle.
 
 .![](/images/3w7AgmXdM15vgqxXv5PC1648207302-1648207390.gif)
 .![](/images/S__5349430.jpg)
-.![](/images/S__5349430.jpg)
 
 It was okay for the first time but as the paste got more dense as it dried out, it became much harder to extrude because it stuck in the extruder.
 
