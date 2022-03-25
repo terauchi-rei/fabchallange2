@@ -1,7 +1,7 @@
 *2nd Fabacademy Challenge**
 ===============
 
-##Initial Ideas and Purpose 
+## Initial Ideas and Purpose 
 
 This time we have decided to print local food waste in Poblenou to regenerate something edible. Since we have been focusing on food waste and compost for the past design interventions, we have wanted to have another approach to it. Actually we were planning to design a hydroponic chair for this time, but when we came to think about the relation and continuation from our design intervention, we thought that we should keep focusing on the food waste topic. Probably we will work on the hydroponic chair another time. (Also we need to figure out arduino stuff to do it)
 
@@ -18,9 +18,9 @@ Also to exhibit, we have decided to make a stand and a base for the exhibition t
 We both worked together, but Rei mainly focused on 3D printing cooking,  Emilio mainly designed modeling for CNC.
 
 
-##Fabrication Process
+## Fabrication Process
 
-#<3D PRINTING COOKIE>
+# <3D PRINTING COOKIE>
 This time we used bread from Galega. We actually tried the test with pasta which Emilio found in his kitchen, probably from a long time ago. 
 
 
@@ -64,7 +64,7 @@ This is how cookies look and we tried some of them baked in the oven. Emilio tri
 .![](../images/S__5349397.jpg)
 .![](../images/S__5349396.jpg)
 
-#<CNC EXHIBITION STAND & ETC>
+# <CNC EXHIBITION STAND & ETC>
 
 We designed them from a sketch and into 3d modeling with Rhino, and cut them with CNC. It was our first time using CNC at IaaC.
 
@@ -79,7 +79,7 @@ We made the data carefully by checking the tolerance and diameter of the pockets
 .![](../images/4.jpg)
 
 
-##Problems
+## Problems
 
 For 3D printing
 -The paste of the food waste easily gets thicker so it gets stuck with the extruder. We added more water to manage it.
@@ -96,7 +96,7 @@ For CNC
 - Even If only one cutting data is wrong, we need to cut it again.
 -It takes super long time for engraving and cutting.
 
-##Future Development
+## Future Development
 We thought 3D printing food waste is capable of giving us a new perspective in dealing with food waste and compost. Usually wasted food doesn't look attractive at all so no one eats it, but when it is printed with a 3D printer, it looks attractive so people would eat it. It can be an interesting fact that people will think of food waste as something edible and also for waste consiousness. 
 We want to try to make  more complex shapes and a variety of food waste paste to develop this project. To do that, we want to make something that actually makes food waste printed taste good and develop a recipe for open source. 
 We will keep in touch with neighbors as we try to get the food waste from them also using our push cart.
