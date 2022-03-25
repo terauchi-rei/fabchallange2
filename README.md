@@ -8,8 +8,8 @@ This time we have decided to print local food waste in Poblenou to regenerate so
 ##Link to our project
 For the past few weeks, we have been trying to get engaged in the Poblenou local community, especially those of community gardens and local restaurants in order to make a small circulation in the area. We have been asking if we can get their food waste to make compost in local community gardens to local restaurants, and we have been asking if we can collaborate in making compost for local community gardens.
 
-.![](../images/S__5234729.jpg)
-.![](../images/S__5349426.jpg)
+.![](/images/S__5234729.jpg)
+.![](/images/S__5349426.jpg)
 
 Recently we have been in touch with this restaurant just across the street of IaaC called Galega, and the owner is so friendly. He gives us a lot of coffee waste and sometimes bread from the day before. Bread can be printed into something like a cookie we found in the article. We decided to 3D print it and exhibit it at the design dialogue as our different perspective/approach to the food waste and compost topic.
 
@@ -29,54 +29,54 @@ We tested with a cylinder if this paste is thick enough to extrude.
 Once the paste looked fine and tasted fine, we put it into the cylinder for the 3D printer. 
 We tried the test printing with a small circle.
 
-.![](../images/3w7AgmXdM15vgqxXv5PC1648207302-1648207390.gif)
-.![](../images/S__5349430.jpg)
-.![](../images/S__5349430.jpg)
+.![](/images/3w7AgmXdM15vgqxXv5PC1648207302-1648207390.gif)
+.![](/images/S__5349430.jpg)
+.![](/images/S__5349430.jpg)
 
 It was okay for the first time but as the paste got more dense as it dried out, it became much harder to extrude because it stuck in the extruder.
 
-.![](../images/S__5349427.jpg)
-.![](../images/S__5349423.jpg)
+.![](/images/S__5349427.jpg)
+.![](/images/S__5349423.jpg)
 
 Learning from this, we decided to make bread paste a little bit loose. 
 
-.![](../images/S__5349421.jpg)
+.![](/images/S__5349421.jpg)
 
 First we tried a circle and it went well for several layers.
 
-.![](../images/S__5349416.jpg)
+.![](/images/S__5349416.jpg)
 
 After that we tried to make our own design of a cookie. 
 
-.![](../images/design.jpg)
-.![](../images/Videotogif.gif)
-.![](../images/Videotogif2.gif)
+.![](/images/design.jpg)
+.![](/images/Videotogif.gif)
+.![](/images/Videotogif2.gif)
 
 Somehow there was something wrong with the code, the paste mixer of the 3D printer did not mix, we fixed it on grasshopper and it extruded constantly.
 
-.![](../images/)
-.![](../images/S__5349391.jpg)
-.![](../images/S__5349389.jpg)
+.![](/images/)
+.![](/images/S__5349391.jpg)
+.![](/images/S__5349389.jpg)
 
 This is how cookies look and we tried some of them baked in the oven. Emilio tried it and said it is not bad.
 
-.![](../images/S__5349387.jpg)
-.![](../images/S__5349397.jpg)
-.![](../images/S__5349396.jpg)
+.![](/images/S__5349387.jpg)
+.![](/images/S__5349397.jpg)
+.![](/images/S__5349396.jpg)
 
 # <CNC EXHIBITION STAND & ETC>
 
 We designed them from a sketch and into 3d modeling with Rhino, and cut them with CNC. It was our first time using CNC at IaaC.
 
-.![](../images/1.jpg)
-.![](../images/2.jpg)
-.![](../images/3.jpg)
-.![](../images/4.jpg)
+.![](/images/1.jpg)
+.![](/images/2.jpg)
+.![](/images/3.jpg)
+.![](/images/4.jpg)
 
 We designed several different things for the exhibition. One table, two stands, and one push cart.
 We made the data carefully by checking the tolerance and diameter of the pockets.
 
-.![](../images/4.jpg)
+.![](/images/4.jpg)
 
 
 ## Problems
@@ -87,7 +87,7 @@ For 3D printing
 -When we tried to print the complex design, the extruder squished the printed paste because it went over the same paths. We thought we needed to model the design that each path goes on the top of another so the extruder will not go on to the other path.
 -Printed paste dried but cracked easily, there needs to be something flexible for the recipe to make paste.
 
-.![](../images/S__5349381.jpg)
+.![](/images/S__5349381.jpg)
 
 -Maybe normal shapes can be just made with a mold. 
 
