@@ -68,10 +68,10 @@ This is how cookies look and we tried some of them baked in the oven. Emilio tri
 
 We designed them from a sketch and into 3d modeling with Rhino, and cut them with CNC. It was our first time using CNC at IaaC.
 
-.![](/images/1.jpg)
-.![](/images/2.jpg)
-.![](/images/3.jpg)
-.![](/images/4.jpg)
+.![](/images/1.jpeg)
+.![](/images/2.jpeg)
+.![](/images/3.jpeg)
+.![](/images/4.jpeg)
 
 We designed several different things for the exhibition. One table, two stands, and one push cart.
 We made the data carefully by checking the tolerance and diameter of the pockets.
