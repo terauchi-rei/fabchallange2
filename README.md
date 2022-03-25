@@ -17,6 +17,8 @@ Also to exhibit, we have decided to make a stand and a base for the exhibition t
 
 We both worked together, but Rei mainly focused on 3D printing cooking,  Emilio mainly designed modeling for CNC.
 
+.![](/images/map.jpg)
+
 
 ## Fabrication Process
 
